@@ -79,7 +79,7 @@ const pitou = {
 
 <div align="center">
 
-<img width="100%" src="https://raw.githubusercontent.com/Toudev3323/Toudev3323/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+<img width="100%" src="https://raw.githubusercontent.com/Toudev3323/Profilepitou/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 </div>
 
