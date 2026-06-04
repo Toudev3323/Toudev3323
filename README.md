@@ -1,5 +1,5 @@
 <!-- ========= ANIMATION 1: Animated Header Wave Banner ========= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yi%20Sokunpitou&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Toudev%20%E2%9C%A6%20Full-Stack%20Dreamer&descSize=20&descAlignY=58&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:4A00E0&height=220&section=header&text=Yi%20Sokunpitou&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=Toudev%20%E2%9C%A6%20Vibe-Coding&descSize=20&descAlignY=58&animation=fadeIn" />
 
 <!-- ========= ANIMATION 2: Typing Effect ========= -->
 <div align="center">
