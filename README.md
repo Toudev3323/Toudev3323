@@ -74,12 +74,12 @@ const pitou = {
 
 ---
 
-<!-- ========= ANIMATION 3: Contribution Snake ========= -->
-## 🐍 Watch My Contributions
+<!-- ========= ANIMATION 3: 3D Contribution Graph ========= -->
+## 🏙️ My 3D Contribution City
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/Toudev3323/Toudev3323/output/github-contribution-grid-snake-dark.svg)
+<img width="100%" src="https://raw.githubusercontent.com/Toudev3323/Toudev3323/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
 
 </div>
 
