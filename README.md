@@ -23,18 +23,6 @@
 
 ## 🧃 About Me
 
-```js
-const pitou = {
-    name: "Yi Sokunpitou",
-    username: "Toudev3323",
-    org: "Toudev",
-    role: "Developer 👨‍💻",
-    location: "Phnom Penh, Cambodia 🇰🇭",
-    currentFocus: ["Web Dev", "UI/UX", "Cool side projects"],
-    motto: "Less talk, more code 💜"
-};
-```
-
 - 🌱 I'm currently learning **new tech & building with Toudev**
 - 💡 Ask me about **anything dev-related**
 - ⚡ Fun fact: **I turn coffee into code**
