@@ -20,6 +20,7 @@ jobs:
 
       - name: Push to output branch
         run: |
+          sudo chown -R $(whoami):$(whoami) dist
           cd dist
           git init -q
           git config user.name "github-actions[bot]"
